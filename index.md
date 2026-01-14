@@ -6,4 +6,4 @@ nav_order: 1
 
 ## my classes
 - [data stru](./courses/ds/)
-- [prof eng](./courses/pe)
+- [prof eng](./courses/pe/)
